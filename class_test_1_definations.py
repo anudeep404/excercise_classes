@@ -25,3 +25,4 @@ Computer.config(com2)
 
 com1.config()
 com2.config()
+print('test')
